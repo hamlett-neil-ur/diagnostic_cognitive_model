@@ -1,0 +1,10 @@
+	EoL_MEAS <- read.csv(file = paste(PROF_TASK.dir, "EoL_MEAS.csv", sep = "/"),
+										colClasses = "character")
+	EoL_MEAS[,"DATE_OF_MEAS"] <- as.Date(x = EoL_MEAS[,"DATE_OF_MEAS"], "%m/%d/%Y")
+	for(col_idx in colnames(EoL_MEAS)) EoL_MEAS[,col_idx] <- enc2utf8(as.character(EoL_MEAS[,col_idx]))
+	write.csv(x = EoL_MEAS,
+					file = paste(PROF_TASK.dir, "EoL_MEAS.csv", sep = "/"),
+					row.names = FALSE,
+					eol = "\r\n",
+					fileEncoding = "UTF-8",
+					quote = TRUE)
