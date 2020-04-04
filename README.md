@@ -13,8 +13,9 @@ Mainstream education uses an operating model that in some regards resembles an a
 
 *Watson Classroom* attempted to catch a the *Personalized-Learning* or *Competency-Based Education* wave of education reform [[U.S. Dept of Education]](https://www.ed.gov/oii-news/competency-based-learning-or-personalized-learning). Instead of measuring the amount of time spent in the classroom, this new method focuses on *evidence of learning*. Instruction and other learning activities are designed not just to transmit information.  They also elicit *evidence* that knowledge has actually been gained ([[C. A. Tomlinson, 2014]](http://www.ascd.org/publications/books/108029.aspx), [[G. Wiggins, J. McTighe, 2005]](http://www.ascd.org/Publications/Books/Overview/Understanding-by-Design-Expanded-2nd-Edition.aspx)).  Assembling the body of each student's evidence of learning leads to a complete, granular view of her strengths and weaknesses. *Watson Classroom* sought to assemble this perspective.
 
-
+<p align="center">
 <img width="800" src="./ConceptOfOperations/170313 Conceptual Learner Model v2-5.png" align="center" >
+</p>
 
 This holistic, granular view of each student's *state of knowledge* — marketed as *Mastery* — was one of three key features contained in *Watson Classroom.*  The product also contained a high-level view of each student's academic status.  It was an attempt at reformulating a [*Student Information System*](https://en.wikipedia.org/wiki/Student_information_system), a student-data system most educational systems use.  It also contained a content-recommendation solution.  This used [natural-language processing](https://becominghuman.ai/a-simple-introduction-to-natural-language-processing-ea66a1747b32) to identify supplementary materials to reinforce individual students' weaknesses, identified by *Mastery*.
 
