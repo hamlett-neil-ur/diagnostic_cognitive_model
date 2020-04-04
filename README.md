@@ -1,5 +1,5 @@
 <p align="center">
-<img height="90"  src="Watson Logo.png" > 
+<img height="80"  src="Watson Logo.png" > 
 
 # Diagnostic Cognitive Model (DCM) feature of *IBM-Watson Classroom*.
 
@@ -41,7 +41,9 @@ University of Pennsylvania researchers Andrew Porter and John Smithson described
 
 The figure below depicts the curriculum-alignment point of view underlying the *Mastery* DCM.  When the first three facets — intended, enacted, and assessed — are in alignment, the *Mastery* DCM would attempt to infer what each student had learned, at a granular level. 
 
+<p align="center">
 <img width="800" src="./ConceptOfOperations/170816 Curriculum Alignment from Porter.png" align="center" >
+</p>
 
 The table below elaborates on the curriculum-alignment framework by Porter and Smithson.  Other well-established frameworks for curriculum, instruction, and assessment (CIA) are fused in. The overall *Mastery* DCM framework was well-grounded in the best recommended principles in the education literature.
 
@@ -62,7 +64,9 @@ The graphic below illustrates.  In terms of measurement theory (e.g., [[S. Salic
 
 The actual state of knowledge the *measurand domain* is below the surface. We attempt to infer the state of the *measurand* given directly-observal *measurements*.  Probability and statistics applies a particular term to this.  This is a *Latent-Variable* problem (e.g., [[J. C. Lohelin, 2009]](https://amzn.to/2xQbOzm)). These are generally solved using Bayesian techniqes.
 
+<p align="center">
 <img width="800" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="center" >
+</p>
 
 Other factors also push us in the direction of a Bayiesian method for a DCM as opposed to a machine-learning approach.  First, edcuation measurements are in practice inconsistent and incomplete. Churn in student enrolment is considerable.  At any given time, a substantial plurality of students in a given class will not have complete assessments history.
 
@@ -74,14 +78,17 @@ The *Mastery* DCM's network model was based on vertical articulations of learnin
 
 The figure below illustrates a particular application.  This is rendered using the [(Sensitivity Analysis, Modeling, Inference and More)](http://reasoning.cs.ucla.edu/samiam/) Bayesian-network tool developed by UCLA.  This was the *Mastery* DCM's first proof-of-concept. This illustrates a readiness assessemt.  We see how weaknesses in prerequisite learning standards influence a teacher's belief about an individual learner's readiness to engage the content coming next.
 
-
+<p align="center">
 <img width="800" src="./ConceptOfOperations/161021 SAMIAM Illustrative ScreenCap — Overall Knowledge State.png" align="center" >
+</p>
 
 ## Technology realization of the *Mastery* DCM.
 
 The diagram below — an activity diagram using Unfied Modeling Language (UML) syntax (e.g., [[Rumbaugh, *et al*, 2009]](https://amzn.to/3bUez1B)) — depicts the system workflow. This at best vaguely approximates the actual realization of the production version.  This Software Configuraiton Item (SWCI) decomposition of the [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR) matches this quite closely.  Each "swim lane" corresponds to a sobroutine in [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR).
 
+<p align="center">
 <img width="800" src="./ConceptOfOperations/Use Case 5︎⃣ Review class summary of learner  knowledge state for all learning standards in course scope .png" align="center" >
+</p>
 
 The production version was implemented in python. The [SQLAlchmey](https://www.sqlalchemy.org/) package was employed for the data input/output.  Most data-handling within the algorithm was instantiated using [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html). The [pgmpy](https://github.com/pgmpy/pgmpy) and [pomegranate](https://pomegranate.readthedocs.io/en/latest/) packages provided the Bayesian-network calculations.
 
@@ -106,9 +113,9 @@ Specifically, the *Mastery* DCM assumed a digitized, aligned curriculum.  Few ed
 
 The figure below illustrates the adoption workflow at a high level.  It begins with an assessment of the extent of alignment and digitization of the curriculum. The framework by [[A. C. Porter, J. L Smithson, 2001]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1058&context=cpre_researchreports) provides provides a high-level guide.
 
-
+<p align="center">
 <img width="800" src="./ClientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="center" >
-
+</p>
 
 The workflow subsequently focused on gettings digitized. Tooling provided outside the core *Watson-Classroom* solution appeared useful. For clients already embracing curriculum alignment, this might involve changing the tooling used. Many cases, this might involve shifting from Microsoft Office to more data-focused tool.
 
