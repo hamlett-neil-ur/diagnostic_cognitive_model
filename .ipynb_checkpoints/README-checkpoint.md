@@ -57,7 +57,18 @@ To paraphrase and extend [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://
 
 Moreover, as was observed above, the an individual learner's state of knowledge is not directly observable. [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249) also explicitly states that.  The state of knowledge is a *latent* characteristic of the learner.
 
-The graphic below illustrates.
+The graphic below illustrates.  In terms of measurement theory (e.g., [[S. Salicone, M. Prioli, 2018]](https://www.springer.com/us/book/9783319741376)), the *assessed curriculum* — what we can explicitly observe — is above the surface. We call this the *measurement domain*. 
+
+The actual state of knowledge the *measurand domain* is below the surface. We attempt to infer the state of the *measurand* given directly-observal *measurements*.  Probability and statistics applies a particular term to this.  This is a *Latent-Variable* problem (e.g., [[J. C. Lohelin, 2009]](https://amzn.to/2xQbOzm)). These are generally solved using Bayesian techniqes.
 
 <img width="800" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="center" >
+
+Other factors also push us in the direction of a Bayiesian method for a DCM as opposed to a machine-learning approach.  First, edcuation measurements are in practice inconsistent and incomplete. Churn in student enrolment is considerable.  At any given time, a substantial plurality of students in a given class will not have complete assessments history.
+
+Second, using test scores to infer other test scores is problematic.  The graphic above accentuates that. Educational measurements are at best noisy measurements of a latent variable.  Additionally, they are often incomplete. A given measurement may not capture all of the important dimensions [[D. S. Bhola, *et al*, 2005]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-3992.2003.tb00134.x).  An assessment to comprehensively measure this space would be prohibitively long [[H. Wainer, R. Feinberg, 2015]](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2015.00797.x).
+
+
+
+
+<img width="800" src="./ConceptOfOperations/161021 SAMIAM Illustrative ScreenCap — Overall Knowledge State.png" align="center" >
 
