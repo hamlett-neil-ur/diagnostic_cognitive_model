@@ -99,7 +99,7 @@ A more-sophisticated technique based on [fast Fourier transforms](https://mathwo
 
 ## Client adoption.
 
-<img width="800" src="./clientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="center" >
+<img width="800" src="./ClientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="center" >
 
 
 
