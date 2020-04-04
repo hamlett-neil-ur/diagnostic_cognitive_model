@@ -1,7 +1,7 @@
 <p align="center">
 <img height="90"  src="Watson Logo.png" > 
 
-# Diagnostic Cognitive Model feature of IBM-Watson Classroom.
+# Diagnostic Cognitive Model (DCM) feature of *IBM-Watson Classroom*.
 
 </p> 
 
@@ -32,8 +32,15 @@ This holistic, granular view of each student's *state of knowledge* — marketed
 
 ## Concept of Operations for the *Mastery* diagnostic cognitive model.
 
-*Traditional* education largely uses time spent in clasroom as a proxy for how much a student learns.  In competency-based personalized learning, another measure is used:  Evidence of learning.  
+*Traditional* education largely uses time spent in clasroom as a proxy for how much a student learns.  In competency-based personalized learning, another measure is used:  Evidence of learning.  The amount each member of a given set of students acquires in a fixed time will vary significantly.  Evidence of learning — not time spent learning — is the basis for competency-based education.
 
+Competency-based education requires an aligned curriculum.  The entire system must be thought of not only as an information-transfer system, but a system for measurement.  This is refered to alignment.
+
+University of Pennsylvania researchers Andrew Porter and John Smithson described a widely-accepted framework for curriculum alignment [[A. C. Porter, J. L Smithson, 2001]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1058&context=cpre_researchreports).  Four facets of a curriculum must be considered.
+
+The figure below depicts the curriculum-alignment point of view underlying the *Mastery* DCM.  When the first three facets — intended, enacted, and assessed — are in alignment, the *Mastery* DCM would attempt to infer what each student had learned, at a granular level. 
+
+<img width="800" src="./ConceptOfOperations/170816 Curriculum Alignment from Porter.png" align="center" >
 
 |Facet|Explanation|References|
 |----|----|----|
@@ -41,6 +48,3 @@ This holistic, granular view of each student's *state of knowledge* — marketed
 |Enacted Curriculum|What is actually implemented in the learning environment.  This might include course syllabi, instructional plans, and the actual instruction.|[[C. A. Tomlinson, 2014]](http://www.ascd.org/publications/books/108029.aspx), [[G. Wiggins, J. McTighe, 2005]](http://www.ascd.org/Publications/Books/Overview/Understanding-by-Design-Expanded-2nd-Edition.aspx)|
 |Assessed Curriculum|Learning that is actually *measured*. Measurements come in a variety of forms, from formal examinations, to projects, to class participation. |[[R. J. Mislevy, *et al*, 2002]](https://www.ets.org/Media/Research/pdf/RR-03-16.pdf), [[R. G. Almond, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249)|
 |Learned Curriculum|Actual knowledge, competency acquired. An individual's knowledge is never directly observable. Education measurements are indirect observations. The closely-fields of [*psychometrics*](https://en.wikipedia.org/wiki/Psychometrics) and [*cognitive doagnostics*](https://psycnet.apa.org/record/2007-14745-001) seek to infer the actual cognitive state from external measurements we can observe.|[[A. A. Rupp, *et al*, 2010]](https://amzn.to/39OgB1T), [[J. Leighton, M. Gierl, 2007]](https://amzn.to/34avJoQ)|
-
-
-<img width="800" src="./ConceptOfOperations/170816 Curriculum Alignment from Porter.png" align="center" >
