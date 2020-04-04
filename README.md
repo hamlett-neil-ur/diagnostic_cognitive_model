@@ -56,7 +56,7 @@ The table below elaborates on the curriculum-alignment framework by Porter and S
 
 ## Approach to *Mastery* DCM.
 
-To paraphrase and extend [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249), "what a student knows after instruction is depended in what was known before, the quality of the instruction, and the extent of the student's engagement with the material".  This is a very Bayesian-sounding proposition.
+To paraphrase and extend [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249), "what a student knows after instruction is dependendent on what was known before, the quality of the instruction, and the extent of the student's engagement with the material".  This is a very Bayesian-sounding proposition.
 
 Moreover, as was observed above, the an individual learner's state of knowledge is not directly observable. [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249) also explicitly states that.  The state of knowledge is a *latent* characteristic of the learner.
 
