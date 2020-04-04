@@ -76,3 +76,8 @@ The figure below illustrates a particular application.  This is rendered using t
 
 <img width="800" src="./ConceptOfOperations/161021 SAMIAM Illustrative ScreenCap — Overall Knowledge State.png" align="center" >
 
+## Technology realization of the *Mastery* DCM.
+
+
+
+<img width="800" src="./ConceptOfOperations/Use Case 5︎⃣ Review class summary of learner  knowledge state for all learning standards in course scope .png" align="center" >
