@@ -33,7 +33,7 @@ This holistic, granular view of each student's *state of knowledge* — marketed
 
 *Traditional* education largely uses time spent in clasroom as a proxy for how much a student learns.  In competency-based personalized learning, another measure is used:  Evidence of learning.  The amount each member of a given set of students acquires in a fixed time will vary significantly.  Evidence of learning — not time spent learning — is the basis for competency-based education.
 
-Competency-based education requires an aligned curriculum.  The entire system must be thought of not only as an information-transfer system, but a system for measurement.  This is refered to alignment.
+Competency-based education requires an aligned curriculum.  The entire system must be thought of not only as an information-transfer system, but a system for measurement.  This is a big part of what we mean by *alignment*.  The assessed and enacted facets of the curriculum coherently align to what the intended curriculum specifies.
 
 <img width="700" src="./ConceptOfOperations/170816 Curriculum Alignment from Porter.png" align="left" >
 
