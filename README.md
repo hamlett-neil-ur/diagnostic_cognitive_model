@@ -79,7 +79,7 @@ The figure below illustrates a particular application.  This is rendered using t
 
 ## Technology realization of the *Mastery* DCM.
 
-The diagram below — an activity diagram using Unfied Modeling Language (UML) syntax (e.g., [[Rumbaugh, *et al*, 2009]](https://amzn.to/3bUez1B)) — depicts the system workflow. This at best vaguely approximates the actual realization of the production version.  This Software Configuraiton Item (SWCI) decomposition of the [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR) matches this quite closely.  Each "swim lane" corresponds to a sobroutine in [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR).
+The diagram below — an activity diagram using Unfied Modeling Language (UML) syntax (e.g., [[Rumbaugh, *et al*, 2009]](https://amzn.to/3bUez1B)) — depicts the system workflow. This at best vaguely approximates the actual realization of the production version.  This Software Configuraiton Item (SWCI) decomposition of the [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR) matches this quite closely.  Each "swim lane" corresponds to a distinct subroutine in the [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR).
 
 <p align="center">
 <img width="900" src="./ConceptOfOperations/Use Case 5︎⃣ Review class summary of learner  knowledge state for all learning standards in course scope .png" align="center" >
