@@ -105,12 +105,12 @@ Specifically, the *Mastery* DCM assumed a digitized, aligned curriculum.  Few ed
 
 The figure below illustrates the adoption workflow at a high level.  It begins with an assessment of the extent of alignment and digitization of the curriculum. The framework by [[A. C. Porter, J. L Smithson, 2001]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1058&context=cpre_researchreports) provides provides a high-level guide.
 
-The workflow subsequently focused on gettings digitized. Tooling provided outside the core *Watson-Classroom* solution appeared useful. For clients already embracing curriculum alignment, this might involve changing the tooling used. Many cases, this might involve shifting from Microsoft Office to more data-focused tool.
-
-As digitization is accomplished, alignment indicators are developed. The essential indicators are much-more rudimentary than those in [[A. C. Porter, J. L Smithson, 2001]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1058&context=cpre_researchreports). However, the potential for surprise could occur when hard data reveals circumstances that differ from expectations.
-
 
 <img width="800" src="./ClientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="center" >
 
+
+The workflow subsequently focused on gettings digitized. Tooling provided outside the core *Watson-Classroom* solution appeared useful. For clients already embracing curriculum alignment, this might involve changing the tooling used. Many cases, this might involve shifting from Microsoft Office to more data-focused tool.
+
+As digitization is accomplished, alignment indicators are developed. The essential indicators are much-more rudimentary than those in [[A. C. Porter, J. L Smithson, 2001]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1058&context=cpre_researchreports). However, the potential for surprise could occur when hard data reveals circumstances that differ from expectations.
 
 
