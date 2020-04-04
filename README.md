@@ -15,7 +15,7 @@ Mainstream education uses an operating model that in some regards resembles an a
 
 <img width="750" src="./ConceptOfOperations/170313 Conceptual Learner Model v2-5.png" align="right" >
 
-This holistic, granular view of each student's *state of knowledge* — marketed as *Mastery* — was one of three key features contained in *Watson Classroom.*  The product also contained a high-level view of each student's academic status.  It was an attempt at reformulating a [*Student Information System*](https://en.wikipedia.org/wiki/Student_information_system), a student-data system most educational systems use.  It also contained a content-recommendation solution.  This used [natural-language processing](https://becominghuman.ai/a-simple-introduction-to-natural-language-processing-ea66a1747b32) to identify supplementary materials to reinforce individual students' weaknesses, identified by *Mastery*.
+This holistic, granular view of each student's *state of knowledge* — marketed as *Mastery* — was one of three key features contained in *Watson Classroom.*  The product also contained a high-level view of each student's academic status.  This was an attempt at reformulating a [*Student Information System*](https://en.wikipedia.org/wiki/Student_information_system), a student-data system most educational organizations use.  It also contained a content-recommendation solution.  This used [natural-language processing](https://becominghuman.ai/a-simple-introduction-to-natural-language-processing-ea66a1747b32) to identify supplementary materials to reinforce individual students' weaknesses, identified by *Mastery*.
 
 ## File Directory.
 
