@@ -15,3 +15,6 @@ Mainstream education uses an operating model that resembles an assembly line [[F
 
 
 <img width="800" src="./ConceptOfOperations/170313 Conceptual Learner Model v2-5.png" >
+
+This holistic, granular view of each student's *state of knowledge* — marketed as *Mastery* — was one of three key features contained in *Watson Classroom.*  The product also contained a high-level view of each student's academic status.  It was an attempt at reformulating a [*Student Information System*](https://en.wikipedia.org/wiki/Student_information_system), a student-data system most educational systems use.  
+
