@@ -65,7 +65,7 @@ The graphic below illustrates.  In terms of measurement theory (e.g., [[S. Salic
 The actual state of knowledge the *measurand domain* is below the surface. We attempt to infer the state of the *measurand* given directly-observal *measurements*.  Probability and statistics applies a particular term to this.  This is a *Latent-Variable* problem (e.g., [[J. C. Lohelin, 2009]](https://amzn.to/2xQbOzm)). These are generally solved using Bayesian techniqes.
 
 <p align="center">
-<img width="800" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="center" >
+<img width="600" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="center" >
 </p>
 
 Other factors also push us in the direction of a Bayiesian method for a DCM as opposed to a machine-learning approach.  First, edcuation measurements are in practice inconsistent and incomplete. Churn in student enrolment is considerable.  At any given time, a substantial plurality of students in a given class will not have complete assessments history.
@@ -79,7 +79,7 @@ The *Mastery* DCM's network model was based on vertical articulations of learnin
 The figure below illustrates a particular application.  This is rendered using the [(Sensitivity Analysis, Modeling, Inference and More)](http://reasoning.cs.ucla.edu/samiam/) Bayesian-network tool developed by UCLA.  This was the *Mastery* DCM's first proof-of-concept. This illustrates a readiness assessemt.  We see how weaknesses in prerequisite learning standards influence a teacher's belief about an individual learner's readiness to engage the content coming next.
 
 <p align="center">
-<img width="800" src="./ConceptOfOperations/161021 SAMIAM Illustrative ScreenCap — Overall Knowledge State.png" align="center" >
+<img width="750" src="./ConceptOfOperations/161021 SAMIAM Illustrative ScreenCap — Overall Knowledge State.png" align="center" >
 </p>
 
 ## Technology realization of the *Mastery* DCM.
@@ -114,7 +114,7 @@ Specifically, the *Mastery* DCM assumed a digitized, aligned curriculum.  Few ed
 The figure below illustrates the adoption workflow at a high level.  It begins with an assessment of the extent of alignment and digitization of the curriculum. The framework by [[A. C. Porter, J. L Smithson, 2001]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1058&context=cpre_researchreports) provides provides a high-level guide.
 
 <p align="center">
-<img width="800" src="./ClientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="center" >
+<img width="600" src="./ClientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="center" >
 </p>
 
 The workflow subsequently focused on gettings digitized. Tooling provided outside the core *Watson-Classroom* solution appeared useful. For clients already embracing curriculum alignment, this might involve changing the tooling used. Many cases, this might involve shifting from Microsoft Office to more data-focused tool.
