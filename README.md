@@ -7,7 +7,7 @@
 
 ## Executive Summary/Abstract.
 
-From 2014 - 2019, IBM attempted to expand its education-technology presence.  It launched a cloud-based platfrom called *Watson Classroom*. Personalization of instruction for each individual student was its vision.  
+From 2014 - 2019, IBM attempted to expand its presence in the  education-technology marketplace.  It launched a cloud-based platfrom called *Watson Classroom*. Personalization of instruction for each individual student was its vision.  
 
 Mainstream education uses an operating model that in some regards resembles an assembly line [[F. J. Bramante, R. L. Colby, 2012]](https://amzn.to/2x5ydJ9).  What each student knows is presumed to be largely determined  by the amount of time spent sitting in the classroom.  What and how quickly students learn actually varies due to a wide variety of factors.
 
