@@ -23,5 +23,7 @@ This holistic, granular view of each student's *state of knowledge* — marketed
 |Artifact|Description|
 |----|-----|
 |ClientAdoption|Descriptions of offerings and materials to help client school districts adopt and derive value from *Watson Classroom*. As with most technologies, deriving maximum value depends on employment of certain business practices. These methods and consulting offerings helped clients get those in place.|
-|ConceptOfOperations|Graphical and other materials illustrating the concept of operations underlying the *Mastery* feature.  It was based on fusing concepts from well-established practices in the educational literature.  These artifcats elaborate.|
+|ConceptOfOperations|Graphical and other materials illustrating the concept of operations underlying the *Mastery* feature.  It was based on fusing concepts from well-established practices in the educational literature.  These artifcats elaborate.| 
+|CurriculumAlignmentAnalsisReporting|This contains artifacts — fusion of python and SQL technologies — used to analyze the degree of alignment of clients' curricula.  The *Mastery* feature required a well-aligned, digitized curriculum to function.|
+
 
