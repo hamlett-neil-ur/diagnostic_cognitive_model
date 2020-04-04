@@ -85,7 +85,7 @@ The diagram below — an activity diagram using Unfied Modeling Language (UML) s
 <img width="900" src="./ConceptOfOperations/Use Case 5︎⃣ Review class summary of learner  knowledge state for all learning standards in course scope .png" align="center" >
 </p>
 
-The production version was implemented in python. The [SQLAlchmey](https://www.sqlalchemy.org/) package was employed for the data input/output.  Most data-handling within the algorithm was instantiated using [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html). The [pgmpy](https://github.com/pgmpy/pgmpy) and [pomegranate](https://pomegranate.readthedocs.io/en/latest/) packages provided the Bayesian-network calculations.
+The production version was implemented in python. The [SQLAlchmey](https://www.sqlalchemy.org/) package was employed for the data input/output via SQL queries.  Most data-handling within the algorithm was instantiated using [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html). The [pgmpy](https://github.com/pgmpy/pgmpy) and [pomegranate](https://pomegranate.readthedocs.io/en/latest/) packages provided the Bayesian-network calculations.
 
 Bayesian networks allow us to solve for the marginal conditional probabilities for any vertex in a directed-acyclic graph given measurement of other vertices within a reasonable distance. The *Mastery* DCM used this to provide diagnostic estimates for each individual student given some evidence of learning.  It thereby addressed varying evidentiary coverage of the curriculum among students. 
 
