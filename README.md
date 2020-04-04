@@ -106,7 +106,7 @@ Many technology innovations are as much about business process as about the tech
 
 Specifically, the *Mastery* DCM assumed a digitized, aligned curriculum.  Few educational systems were both digitized and aligned.  Consequently, an adoption workflow became necessary. 
 
-<img width="600" src="./ClientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="right" >
+<img width="750" src="./ClientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="right" >
 
 The to the right  illustrates the adoption workflow at a high level.  It begins with an assessment of the extent of alignment and digitization of the curriculum. The framework by [[A. C. Porter, J. L Smithson, 2001]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1058&context=cpre_researchreports) provides provides a high-level guide.
 
