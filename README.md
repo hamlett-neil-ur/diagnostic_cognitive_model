@@ -31,7 +31,7 @@ This holistic, granular view of each student's *state of knowledge* — marketed
 
 ## Concept of Operations for the *Mastery* DCM.
 
-*Traditional* education largely uses time spent in clasroom as a proxy for how much a student learns.  In competency-based personalized learning, another measure is used:  Evidence of learning.  The amount each member of a given set of students acquires in a fixed time will vary significantly.  Evidence of learning — not time spent learning — is the basis for competency-based education.
+*Traditional* education largely uses time spent in clasroom as a proxy for how much a student learns.  In competency-based personalized learning, another measure is used:  Evidence of learning.  The amount of new knowledge each member of a given set of students acquires in a fixed classroom time will vary significantly.  Evidence of learning — not time spent learning — is the basis for competency-based education.
 
 Competency-based education requires an aligned curriculum.  The entire system must be thought of not only as an information-transfer system, but a system for measurement.  This is a big part of what we mean by *alignment*.  The assessed and enacted facets of the curriculum coherently align to what the intended curriculum specifies.
 
