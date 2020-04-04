@@ -78,9 +78,17 @@ The figure below illustrates a particular application.  This is rendered using t
 
 ## Technology realization of the *Mastery* DCM.
 
-The diagram belwo — an activity diagram using Unfied Modeling Language (UML) syntax (e.g., [[Rumbaugh, *et al*, 2009]](https://amzn.to/3bUez1B)) — depicts the system workflow. This at best vaguely approximates the actual realization of the production version.  This Software Configuraiton Item (SWCI) decomposition of the [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR) matches this quite closely.  Each "swim lane" corresponds to a sobroutine in [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR).
+The diagram below — an activity diagram using Unfied Modeling Language (UML) syntax (e.g., [[Rumbaugh, *et al*, 2009]](https://amzn.to/3bUez1B)) — depicts the system workflow. This at best vaguely approximates the actual realization of the production version.  This Software Configuraiton Item (SWCI) decomposition of the [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR) matches this quite closely.  Each "swim lane" corresponds to a sobroutine in [R-based prototype](https://github.com/hamlett-neil-ur/diagnostic_cognitive_model/tree/master/PrototypeSubroutinesInR).
 
 <img width="800" src="./ConceptOfOperations/Use Case 5︎⃣ Review class summary of learner  knowledge state for all learning standards in course scope .png" align="center" >
 
 The production version was implemented in python. The [SQLAlchmey](https://www.sqlalchemy.org/) package was employed for the data input/output.  Most data-handling within the algorithm was instantiated using [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html). The [pgmpy](https://github.com/pgmpy/pgmpy) and [pomegranate](https://pomegranate.readthedocs.io/en/latest/) packages provided the Bayesian-network calculations.
+
+Bayesian networks allow us to solve for the marginal conditional probabilities for any vertex in a directed-acyclic graph given measurement of other vertices within a reasonable distance. The *Mastery* DCM used this to provide diagnostic estimates for each individual student given some evidence of learning.  It thereby addressed varying evidentiary coverage of the curriculum among students. 
+
+## Client adoption.
+
+<img width="800" src="./clientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="center" >
+
+
 
