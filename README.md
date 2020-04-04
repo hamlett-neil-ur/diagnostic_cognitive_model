@@ -59,12 +59,12 @@ To paraphrase and extend [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://
 
 Moreover, as was observed above, the an individual learner's state of knowledge is not directly observable. [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249) also explicitly states that.  The state of knowledge is a *latent* characteristic of the learner.
 
-The graphic below illustrates.  In terms of measurement theory (e.g., [[S. Salicone, M. Prioli, 2018]](https://www.springer.com/us/book/9783319741376)), the *assessed curriculum* — what we can explicitly observe — is above the surface. We call this the *measurement domain*. 
+<img width="600" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="right" >
+
+The graphic to the right illustrates.  In terms of measurement theory (e.g., [[S. Salicone, M. Prioli, 2018]](https://www.springer.com/us/book/9783319741376)), the *assessed curriculum* — what we can explicitly observe — is above the surface. We call this the *measurement domain*. 
 
 The actual state of knowledge the *measurand domain* is below the surface. We attempt to infer the state of the *measurand* given directly-observal *measurements*.  Probability and statistics applies a particular term to this.  This is a *Latent-Variable* problem (e.g., [[J. C. Lohelin, 2009]](https://amzn.to/2xQbOzm)). These are generally solved using Bayesian techniqes.
 
-
-<img width="600" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="right" >
 
 Other factors also push us in the direction of a Bayiesian method for a DCM as opposed to a machine-learning approach.  First, edcuation measurements are in practice inconsistent and incomplete. Churn in student enrolment is considerable.  At any given time, a substantial plurality of students in a given class will not have complete assessments history.
 
