@@ -99,6 +99,10 @@ A more-sophisticated technique based on [fast Fourier transforms](https://mathwo
 
 ## Client adoption.
 
+Many technology innovations are as much about business process as about the technology itself.  *Watson Classroom* exemplifies this.  Deriving value of the *Mastery* DCM in particular was particularly dependent on a certain set of business practices.  Although the framework described above is well-grounded in the educational literature, the breadth and extent of application of these principles varied among clients.
+
+Specifically, the *Mastery* DCM assumed a digitized, aligned curriculum.  Few educational systems were both digitized and aligned.  Consequently, an adoption workflow became necessary. 
+
 <img width="800" src="./ClientAdoption/Offering Artifacts/190206 Offering Flow & Interdependencies v1-2.png" align="center" >
 
 
