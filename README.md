@@ -41,9 +41,9 @@ University of Pennsylvania researchers Andrew Porter and John Smithson described
 
 The figure below depicts the curriculum-alignment point of view underlying the *Mastery* DCM.  When the first three facets — intended, enacted, and assessed — are in alignment, the *Mastery* DCM would attempt to infer what each student had learned, at a granular level. 
 
-<p align="center">
-<img width="600" src="./ConceptOfOperations/170816 Curriculum Alignment from Porter.png" align="center" >
-</p>
+
+<img width="600" src="./ConceptOfOperations/170816 Curriculum Alignment from Porter.png" align="left" >
+
 
 The table below elaborates on the curriculum-alignment framework by Porter and Smithson.  Other well-established frameworks for curriculum, instruction, and assessment (CIA) are fused in. The overall *Mastery* DCM framework was well-grounded in the best recommended principles in the education literature.
 
