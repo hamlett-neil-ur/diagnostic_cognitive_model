@@ -30,7 +30,7 @@ This holistic, granular view of each student's *state of knowledge* — marketed
 |180716_Algorithm_Description_Document_v0-1.pdf|This is an incomplete draft of an algorithm-description document.  It contains extensive elaboration on the motivation, rationale, and concept for operations.|
 |190305 NMCE CADRE Abstract v1-0.pdf|A presentation about *Mastery* was accepted for the the National Council of Measurements in Ecucation [*Third annual NCME special conference on classroom assessment*](https://www.ncme.org/events/event-description?CalendarEventKey=8bc0ef9b-ddee-4dfa-bcfa-2d80460adee5&Home=%2Fmeetings%2Fupcoming-events). This is the abstract that was accepted.  The paper was withdrawn when *Watson Classroom* was discontinued.|
 
-## Concept of Operations for the *Mastery* diagnostic cognitive model.
+## Concept of Operations for the *Mastery* DCM.
 
 *Traditional* education largely uses time spent in clasroom as a proxy for how much a student learns.  In competency-based personalized learning, another measure is used:  Evidence of learning.  The amount each member of a given set of students acquires in a fixed time will vary significantly.  Evidence of learning — not time spent learning — is the basis for competency-based education.
 
@@ -50,3 +50,14 @@ The table below elaborates on the curriculum-alignment framework by Porter and S
 |Enacted Curriculum|What is actually implemented in the learning environment.  This might include course syllabi, instructional plans, and the actual instruction.|[[C. A. Tomlinson, 2014]](http://www.ascd.org/publications/books/108029.aspx), [[G. Wiggins, J. McTighe, 2005]](http://www.ascd.org/Publications/Books/Overview/Understanding-by-Design-Expanded-2nd-Edition.aspx)|
 |Assessed Curriculum|Learning that is actually *measured*. Measurements come in a variety of forms, from formal examinations, to projects, to class participation. |[[R. J. Mislevy, *et al*, 2002]](https://www.ets.org/Media/Research/pdf/RR-03-16.pdf), [[R. G. Almond, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249)|
 |Learned Curriculum|Actual knowledge, competency acquired. An individual's knowledge is never directly observable. Education measurements are indirect observations. The closely-fields of [*psychometrics*](https://en.wikipedia.org/wiki/Psychometrics) and [*cognitive doagnostics*](https://psycnet.apa.org/record/2007-14745-001) seek to infer the actual cognitive state from external measurements we can observe.|[[A. A. Rupp, *et al*, 2010]](https://amzn.to/39OgB1T), [[J. Leighton, M. Gierl, 2007]](https://amzn.to/34avJoQ)|
+
+## Approach to *Mastery* DCM.
+
+To paraphrase and extend [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249), "what a student knows after instruction is depended in what was known before, the quality of the instruction, and the extent of the student's engagement with the material".  This is a very Bayesian-sounding proposition.
+
+Moreover, as was observed above, the an individual learner's state of knowledge is not directly observable. [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249) also explicitly states that.  The state of knowledge is a *latent* characteristic of the learner.
+
+The graphic below illustrates.
+
+<img width="800" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="center" >
+
