@@ -39,11 +39,10 @@ Competency-based education requires an aligned curriculum.  The entire system mu
 
 University of Pennsylvania researchers Andrew Porter and John Smithson described a widely-accepted framework for curriculum alignment [[A. C. Porter, J. L Smithson, 2001]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1058&context=cpre_researchreports).  Four facets of a curriculum must be considered.
 
-The figure below depicts the curriculum-alignment point of view underlying the *Mastery* DCM.  When the first three facets — intended, enacted, and assessed — are in alignment, the *Mastery* DCM would attempt to infer what each student had learned, at a granular level. 
-
 
 <img width="600" src="./ConceptOfOperations/170816 Curriculum Alignment from Porter.png" align="left" >
 
+The figure to the left depicts the curriculum-alignment point of view underlying the *Mastery* DCM.  When the first three facets — intended, enacted, and assessed — are in alignment, the *Mastery* DCM would attempt to infer what each student had learned, at a granular level. 
 
 The table below elaborates on the curriculum-alignment framework by Porter and Smithson.  Other well-established frameworks for curriculum, instruction, and assessment (CIA) are fused in. The overall *Mastery* DCM framework was well-grounded in the best recommended principles in the education literature.
 
