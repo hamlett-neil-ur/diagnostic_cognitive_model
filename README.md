@@ -30,6 +30,8 @@ This holistic, granular view of each student's *state of knowledge* — marketed
 |180716_Algorithm_Description_Document_v0-1.pdf|This is an incomplete draft of an algorithm-description document.  It contains extensive elaboration on the motivation, rationale, and concept for operations.|
 |190305 NMCE CADRE Abstract v1-0.pdf|A presentation about *Mastery* was accepted for the the National Council of Measurements in Ecucation [*Third annual NCME special conference on classroom assessment*](https://www.ncme.org/events/event-description?CalendarEventKey=8bc0ef9b-ddee-4dfa-bcfa-2d80460adee5&Home=%2Fmeetings%2Fupcoming-events). This is the abstract that was accepted.  The paper was withdrawn when *Watson Classroom* was discontinued.|
 
+## Concept of Operations for the *Mastery* diagnostic cognitive model.
+
 
 
 
