@@ -42,6 +42,8 @@ The figure below depicts the curriculum-alignment point of view underlying the *
 
 <img width="800" src="./ConceptOfOperations/170816 Curriculum Alignment from Porter.png" align="center" >
 
+The table below elaborates on the curriculum-alignment framework by Porter and Smithson.  Other well-established frameworks for curriculum, instruction, and assessment (CIA) are fused in. The overall *Mastery* DCM framework was well-grounded in the best recommended principles in the education literature.
+
 |Facet|Explanation|References|
 |----|----|----|
 |Intended Curriculum|Statement of knowledge learners are intended to acquire.  This is usually a policy statement specifying the structure of the curriculum and the content of courses, instructional units.|[[A. C. Porter, J. L Smithson, 2001]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1058&context=cpre_researchreports)|
