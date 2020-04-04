@@ -64,9 +64,8 @@ The graphic below illustrates.  In terms of measurement theory (e.g., [[S. Salic
 
 The actual state of knowledge the *measurand domain* is below the surface. We attempt to infer the state of the *measurand* given directly-observal *measurements*.  Probability and statistics applies a particular term to this.  This is a *Latent-Variable* problem (e.g., [[J. C. Lohelin, 2009]](https://amzn.to/2xQbOzm)). These are generally solved using Bayesian techniqes.
 
-<p align="center">
-<img width="600" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="center" >
-</p>
+
+<img width="600" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="right" >
 
 Other factors also push us in the direction of a Bayiesian method for a DCM as opposed to a machine-learning approach.  First, edcuation measurements are in practice inconsistent and incomplete. Churn in student enrolment is considerable.  At any given time, a substantial plurality of students in a given class will not have complete assessments history.
 
