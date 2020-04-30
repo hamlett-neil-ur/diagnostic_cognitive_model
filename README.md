@@ -76,7 +76,7 @@ The *Mastery* DCM's network model was based on *vertical articulations* of learn
 
 The figure below depicts a particular use case.  This is rendered using the [Sensitivity Analysis, Modeling, Inference and More](http://reasoning.cs.ucla.edu/samiam/) Bayesian-network tool developed by UCLA.  This was the *Mastery* DCM's first proof-of-concept. 
 
-This exemplifes a readiness assessment.  We see how weaknesses in prerequisite learning standards influence a teacher's belief about an individual learner's readiness to engage the content coming up next.  In fact, [[R. G. Almond, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249) contains an oblique reference to this sort of use case. [[Zimba, 2012]](https://achievethecore.org/content/upload/ccssmgraph.pdf) suggests it explicitly.
+This figure exemplifes a learner-readiness use case.  We see how weaknesses in prerequisite learning standards influence a teacher's belief about an individual learner's readiness to engage the content coming up next.  In fact, [[R. G. Almond, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249) contains an oblique reference to this sort of use case. [[Zimba, 2012]](https://achievethecore.org/content/upload/ccssmgraph.pdf) suggests it explicitly.
 
 <p align="center">
 <img width="750" src="./ConceptOfOperations/161021 SAMIAM Illustrative ScreenCap — Overall Knowledge State.png" align="center" >
