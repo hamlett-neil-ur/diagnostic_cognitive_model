@@ -56,7 +56,7 @@ The table below elaborates on the curriculum-alignment framework by Porter and S
 
 To paraphrase and extend [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249), "what a student knows after instruction is dependendent on what was known before, the quality of the instruction, and the extent of the student's engagement with the material".  This is a very Bayesian-sounding proposition.
 
-Moreover, as was observed above, the an individual learner's state of knowledge is not directly observable. [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249) also explicitly states that.  The state of knowledge is a *latent* characteristic of the learner.
+Moreover, as was observed above, the an individual learner's state of knowledge is not directly observable. [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249) also explicitly states that.  The state of knowledge is a *latent* characteristic of the learner. Conflating measurements with the phenomena that generated them is not an uncommon fallacy.  Polish-American scholar [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski) introduced the phrase, "The map is not the territory" [[Korybski, 1931]](https://pdfs.semanticscholar.org/c291/61b8e0971844c0919ea070f6868d28df7adf.pdf?_ga=2.90231833.2057440727.1588259838-1131932658.1584387317). More-recently, Waterloo Univeristy professor Michael Wallace describes the challenge more-generally [[Wallace, 2020]](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2020.01353.x).
 
 <img width="600" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="right" >
 
