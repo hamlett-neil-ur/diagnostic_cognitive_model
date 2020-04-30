@@ -60,7 +60,7 @@ Moreover, as was observed above, the an individual learner's state of knowledge 
 
 <img width="600" src="./ConceptOfOperations/190409 Phenomonology Model.png" align="right" >
 
-The graphic to the right contains a phenomenology model.  In terms of measurement theory (e.g., [[S. Salicone, M. Prioli, 2018]](https://www.springer.com/us/book/9783319741376)), the *assessed curriculum* — what we can explicitly observe — is above the surface. We call this the *measurement domain*. 
+The graphic to the right contains a phenomenology model representing what the exerpt above from [[R. G. Almond, R. J. Mislevy, *et al*, 2015]](https://www.springer.com/gp/book/9781493921249) describes.  In terms of measurement theory (e.g., [[S. Salicone, M. Prioli, 2018]](https://www.springer.com/us/book/9783319741376)), the *assessed curriculum* — what we can explicitly observe — is above the surface. We call this the *measurement domain*. 
 
 The actual state of knowledge, the *measurand domain*, is below the surface. We attempt to infer the state of the *measurand* given directly-observed *measurements*.  Probability and statistics applies a particular term to this class of problems.  They are called *Latent-Variable* problems (e.g., [[J. C. Lohelin, 2009]](https://amzn.to/2xQbOzm)). These are generally solved using Bayesian techniqes.
 
